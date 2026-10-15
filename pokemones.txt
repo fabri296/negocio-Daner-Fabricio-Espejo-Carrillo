@@ -1,0 +1,20 @@
+1	Bulbasaur	Planta / Veneno
+2	Ivysaur	Planta / Veneno
+3	Venusaur	Planta / Veneno
+4	Charmander	Fuego
+5	Charmeleon	Fuego
+6	Charizard	Fuego / Volador
+7	Squirtle	Agua
+8	Wartortle	Agua
+9	Blastoise	Agua
+10	Caterpie	Bicho
+11	Metapod	Bicho
+12	Butterfree	Bicho / Volador
+13	Weedle	Bicho / Veneno
+14	Kakuna	Bicho / Veneno
+15	Beedrill	Bicho / Veneno
+16	Pidgey	Normal / Volador
+17	Pidgeotto	Normal / Volador
+18	Pidgeot	Normal / Volador
+19	Rattata	Normal
+20	Raticate	Normal
