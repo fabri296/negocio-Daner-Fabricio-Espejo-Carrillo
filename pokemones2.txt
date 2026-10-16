@@ -1,0 +1,30 @@
+21 - Spearow - Normal/Volador
+22 - Fearow - Normal/Volador
+23 - Ekans - Veneno
+24 - Arbok - Veneno
+25 - Pikachu - Electrico
+26 - Raichu - Electrico
+27 - Sandshrew - Tierra
+28 - Sandslash - Tierra
+29 - Nidoran hembra - Veneno
+30 - Nidorina - Veneno
+31 - Nidoqueen - Veneno/Tierra
+32 - Nidoran macho - Veneno
+33 - Nidorino - Veneno
+34 - Nidoking - Veneno/Tierra
+35 - Clefairy - Hada
+36 - Clefable - Hada
+37 - Vulpix - Fuego
+38 - Ninetales - Fuego
+39 - Jigglypuff - Normal/Hada
+40 - Wigglytuff - Normal/Hada
+41 - Zubat - Veneno/Volador
+42 - Golbat - Veneno/Volador
+43 - Oddish - Planta/Veneno
+44 - Gloom - Planta/Veneno
+45 - Vileplume - Planta/Veneno
+46 - Paras - Bicho/Planta
+47 - Parasect - Bicho/Planta
+48 - Venonat - Bicho/Veneno
+49 - Venomoth - Bicho/Veneno
+50 - Diglett - Tierra
