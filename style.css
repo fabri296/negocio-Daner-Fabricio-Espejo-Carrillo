@@ -1,0 +1,115 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  color: #222;
+  text-align: center;
+  min-height: 100vh;
+}
+
+header {
+  background-color: #cc0000;
+  color: white;
+  padding: 24px 16px;
+}
+
+header p {
+  margin-top: 6px;
+}
+
+main {
+  padding: 24px 16px;
+}
+
+.buscador {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  width: 220px;
+}
+
+button {
+  padding: 10px 16px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  background-color: #cc0000;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #990000;
+}
+
+#mensaje {
+  margin: 16px 0;
+  color: #cc0000;
+  min-height: 20px;
+}
+
+.tarjeta {
+  background-color: white;
+  max-width: 320px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.tarjeta img {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+}
+
+.tarjeta h2 {
+  text-transform: capitalize;
+  margin: 8px 0;
+}
+
+.tarjeta p {
+  margin: 4px 0;
+}
+
+.tipos {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin: 10px 0;
+}
+
+.tipo {
+  background-color: #555;
+  color: white;
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 14px;
+  text-transform: capitalize;
+}
+
+.oculto {
+  display: none;
+}
+
+footer {
+  padding: 16px;
+  font-size: 14px;
+}
+
+footer a {
+  color: #cc0000;
+}
