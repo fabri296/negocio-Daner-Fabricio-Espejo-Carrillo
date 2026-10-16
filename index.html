@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Buscador Pokémon</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Buscador Pokémon</h1>
+    <p>Busca un Pokémon por nombre o número</p>
+  </header>
+
+  <main>
+    <div class="buscador">
+      <input type="text" id="entrada" placeholder="Ej: pikachu o 25">
+      <button id="btn-buscar">Buscar</button>
+      <button id="btn-aleatorio">Aleatorio</button>
+    </div>
+
+    <p id="mensaje"></p>
+
+    <section id="tarjeta" class="tarjeta oculto">
+      <img id="imagen" src="" alt="Imagen del Pokémon">
+      <h2 id="nombre"></h2>
+      <p id="numero"></p>
+      <div id="tipos" class="tipos"></div>
+      <p id="altura"></p>
+      <p id="peso"></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Datos obtenidos de <a href="https://pokeapi.co" target="_blank">PokeAPI</a></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
